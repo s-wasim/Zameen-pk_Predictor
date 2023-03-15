@@ -1,0 +1,954 @@
+,Type,Price,Location,Baths,Area,Purpose,Beds,Creation date,Amenities
+0,Residential Plot,PKR6.5 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+1,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Sewerage,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+2,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+3,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+4,Residential Plot,PKR1.9 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Sewerage,Electricity,Water Supply,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+5,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,
+6,Residential Plot,PKR1.14 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+7,Residential Plot,PKR10 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+8,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+9,Residential Plot,PKR13.5 Crore,"LDA Avenue, Lahore, Punjab",-,3 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+10,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+11,Commercial Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+12,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+13,Residential Plot,PKR1.01 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+14,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+15,Commercial Plot,PKR1.32 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+16,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+17,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+18,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+19,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+20,Residential Plot,PKR62 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+21,Residential Plot,PKR1.21 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+22,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+23,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+24,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+25,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,9.2 Marla,For Sale,-,3 weeks ago,
+26,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+27,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+28,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+29,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+30,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+31,Residential Plot,PKR1.22 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+32,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms)"
+33,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Possesion,Corner,Sewerage,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+34,Residential Plot,PKR59 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,3 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms)"
+35,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+36,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+37,Residential Plot,PKR3.05 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,3 days ago,
+38,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,
+39,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,
+40,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,
+41,Residential Plot,PKR1.22 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+42,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+43,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+44,Residential Plot,PKR97 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+45,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+46,Residential Plot,PKR59 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+47,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+48,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+49,Residential Plot,PKR1.32 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+50,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+51,Residential Plot,PKR1.66 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+52,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+53,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+54,Residential Plot,PKR1.47 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+55,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+56,Residential Plot,PKR65 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+57,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+58,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",2,10 Marla,For Sale,2,2 weeks ago,
+59,Residential Plot,PKR1.38 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Corner,Disputed,Balloted,Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+60,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+61,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+62,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+63,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+64,Residential Plot,PKR1.95 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Corner,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+65,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+66,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+67,Residential Plot,PKR1.19 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+68,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+69,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+70,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+71,Residential Plot,PKR1.34 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+72,Residential Plot,PKR86 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+73,Residential Plot,PKR68 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+74,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+75,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Security Staff"
+76,Residential Plot,PKR1.19 Crore,"LDA Avenue, Lahore, Punjab",3,10 Marla,For Sale,3,4 days ago,
+77,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+78,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+79,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+80,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+81,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+82,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+83,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+84,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+85,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+86,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+87,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+88,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+89,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+90,Residential Plot,PKR3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+91,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+92,Residential Plot,PKR86 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+93,Residential Plot,PKR77 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+94,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+95,Residential Plot,PKR1.27 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+96,Residential Plot,PKR59 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 day ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+97,Residential Plot,PKR1.06 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+98,Residential Plot,PKR1.63 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+99,Residential Plot,PKR1.18 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+100,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+101,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+102,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+103,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+104,Residential Plot,PKR83 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 hours ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+105,Residential Plot,PKR81 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+106,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+107,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+108,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+109,Residential Plot,PKR2.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+110,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 hours ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+111,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+112,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,
+113,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+114,Residential Plot,PKR64 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+115,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+116,Residential Plot,PKR89 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+117,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+118,Residential Plot,PKR3.1 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,2 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+119,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,
+120,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,
+121,Residential Plot,PKR2.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 day ago,
+122,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 day ago,
+123,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+124,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+125,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,Possesion
+126,Commercial Plot,PKR4.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+127,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+128,Residential Plot,PKR1.66 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Water Supply,Boundary Wall"
+129,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+130,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+131,Residential Plot,PKR3.15 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Hospitals,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+132,Residential Plot,PKR1.9 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+133,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+134,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+135,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+136,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 day ago,"Possesion,Corner,Park Facing,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+137,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 day ago,
+138,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+139,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 hours ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+140,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+141,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+142,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+143,Residential Plot,PKR66 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+144,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+145,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+146,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+147,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+148,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+149,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+150,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 hours ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+151,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+152,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Corner,Park Facing,Water Supply,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Other Nearby Places"
+153,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+154,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+155,Commercial Plot,PKR4.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+156,Residential Plot,PKR1.17 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+157,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 hours ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+158,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+159,Residential Plot,PKR1.85 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+160,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+161,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+162,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+163,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+164,Residential Plot,PKR1.09 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+165,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+166,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+167,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+168,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+169,Residential Plot,PKR3.1 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+170,Residential Plot,PKR1.63 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Corner,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+171,Residential Plot,PKR69 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+172,Residential Plot,PKR1.06 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+173,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+174,Residential Plot,PKR1.51 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+175,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+176,Residential Plot,PKR1.72 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+177,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+178,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+179,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+180,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+181,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+182,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+183,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+184,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Possesion,Corner,Park Facing,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+185,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+186,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+187,Residential Plot,PKR94 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+188,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+189,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+190,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+191,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+192,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+193,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+194,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+195,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+196,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+197,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+198,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+199,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+200,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+201,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+202,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+203,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+204,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+205,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+206,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+207,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+208,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+209,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+210,Residential Plot,PKR3.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+211,Residential Plot,PKR45 Lakh,"LDA Avenue, Lahore, Punjab",-,3 Marla,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+212,Residential Plot,PKR1.32 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+213,Residential Plot,PKR2.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+214,Residential Plot,PKR1.28 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+215,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+216,Commercial Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+217,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Corner,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Other Nearby Places"
+218,Residential Plot,PKR1.08 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+219,Residential Plot,PKR1.28 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+220,Residential Plot,PKR65 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+221,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+222,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+223,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+224,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+225,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+226,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+227,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+228,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 day ago,
+229,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+230,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+231,Commercial Plot,PKR7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+232,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+233,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+234,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+235,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+236,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+237,Residential Plot,PKR78 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+238,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+239,Residential Plot,PKR1.38 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+240,Residential Plot,PKR93 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+241,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+242,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+243,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+244,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+245,Residential Plot,PKR1.29 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+246,Residential Plot,PKR1.02 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+247,Residential Plot,PKR1.02 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+248,Commercial Plot,PKR1.26 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+249,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+250,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+251,Residential Plot,PKR56 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 month ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+252,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+253,Residential Plot,PKR5.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+254,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+255,Residential Plot,PKR1.19 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+256,Residential Plot,PKR1.51 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+257,Residential Plot,PKR1.48 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+258,Residential Plot,PKR78 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+259,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+260,Residential Plot,PKR1.46 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+261,Residential Plot,PKR68 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+262,Residential Plot,PKR86 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+263,Residential Plot,PKR67 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+264,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+265,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,3 days ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+266,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+267,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+268,Residential Plot,PKR1.07 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+269,Residential Plot,PKR1.13 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+270,Residential Plot,PKR1.11 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+271,Residential Plot,PKR77 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+272,Residential Plot,PKR1.56 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+273,Residential Plot,PKR1.21 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+274,Residential Plot,PKR64 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+275,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+276,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+277,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 days ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+278,Residential Plot,PKR52 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+279,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,3 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+280,Residential Plot,PKR1.89 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 day ago,"Possesion,Electricity,Sui Gas"
+281,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+282,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+283,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+284,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+285,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+286,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+287,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+288,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+289,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+290,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+291,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+292,Residential Plot,PKR1.52 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+293,Residential Plot,PKR1.67 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+294,Residential Plot,PKR1.12 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+295,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+296,Residential Plot,PKR86 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+297,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+298,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+299,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+300,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+301,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,"Possesion,Park Facing,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+302,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,"Possesion,Corner,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+303,Residential Plot,PKR1.28 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,
+304,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+305,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+306,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+307,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+308,Residential Plot,PKR53 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+309,Residential Plot,PKR67 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+310,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+311,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+312,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+313,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+314,Residential Plot,PKR1.28 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+315,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+316,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+317,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+318,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+319,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+320,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+321,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+322,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+323,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+324,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,
+325,Residential Plot,PKR1.42 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+326,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+327,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+328,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Corner,Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+329,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+330,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+331,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+332,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 days ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+333,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+334,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+335,Residential Plot,PKR2.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+336,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+337,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+338,Residential Plot,PKR1.69 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+339,Residential Plot,PKR1.58 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+340,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+341,Commercial Plot,PKR2.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+342,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+343,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+344,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+345,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+346,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+347,Residential Plot,PKR97 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+348,Residential Plot,PKR86 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+349,Residential Plot,PKR3.9 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+350,Commercial Plot,PKR3.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+351,Residential Plot,PKR58 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,5 days ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+352,Residential Plot,PKR55 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+353,Residential Plot,PKR55 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+354,Residential Plot,PKR79 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+355,Residential Plot,PKR55 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+356,Residential Plot,PKR56 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,5 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+357,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+358,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+359,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+360,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+361,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+362,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+363,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+364,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+365,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+366,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+367,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+368,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+369,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,
+370,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+371,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,
+372,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+373,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,
+374,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+375,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,
+376,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+377,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+378,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+379,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+380,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+381,Residential Plot,PKR3.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+382,Residential Plot,PKR4.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+383,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+384,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+385,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+386,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+387,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+388,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+389,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+390,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+391,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+392,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 days ago,
+393,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+394,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+395,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 days ago,
+396,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+397,Commercial Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,6 days ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+398,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+399,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+400,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+401,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+402,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+403,Residential Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 day ago,
+404,Residential Plot,PKR4.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+405,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+406,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+407,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+408,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+409,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 days ago,
+410,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+411,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+412,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+413,Commercial Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Park Facing,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+414,Commercial Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+415,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+416,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+417,Residential Plot,PKR2.25 Crore,"LDA Avenue, Lahore, Punjab",-,1.2 Kanal,For Sale,-,6 days ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+418,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+419,Residential Plot,PKR65 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,6 days ago,
+420,Residential Plot,PKR71 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,10 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+421,Residential Plot,PKR3.75 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,6 days ago,
+422,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 days ago,
+423,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+424,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+425,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+426,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+427,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+428,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+429,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+430,Commercial Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+431,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+432,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+433,Residential Plot,PKR2.9 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+434,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+435,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Park Facing,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+436,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+437,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+438,Residential Plot,PKR4 Crore,"LDA Avenue, Lahore, Punjab",-,4 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+439,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+440,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,
+441,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+442,Residential Plot,PKR65 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+443,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,
+444,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+445,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+446,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+447,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+448,Residential Plot,PKR77 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+449,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+450,Residential Plot,PKR76 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+451,Residential Plot,PKR73 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+452,Residential Plot,PKR1.17 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+453,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+454,Residential Plot,PKR1.13 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+455,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+456,Residential Plot,PKR7.5 Crore,"LDA Avenue, Lahore, Punjab",-,3 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+457,Residential Plot,PKR3.7 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+458,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+459,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+460,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+461,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+462,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+463,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms)"
+464,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+465,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+466,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+467,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+468,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+469,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+470,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+471,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+472,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+473,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+474,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+475,Commercial Plot,PKR4.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+476,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+477,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+478,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+479,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+480,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+481,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+482,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+483,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+484,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+485,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+486,Residential Plot,PKR4.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+487,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+488,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+489,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+490,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+491,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+492,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+493,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+494,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+495,Residential Plot,PKR82 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+496,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,Possesion
+497,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,Possesion
+498,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Balloted,Sewerage,Water Supply,Sui Gas,Boundary Wall"
+499,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+500,Residential Plot,PKR1.58 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+501,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,Possesion
+502,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+503,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+504,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Park Facing,Disputed,Balloted,Sewerage,Electricity,Water Supply,Boundary Wall"
+505,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+506,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+507,Residential Plot,PKR1.66 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+508,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+509,Residential Plot,PKR1.02 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas"
+510,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+511,Residential Plot,PKR1.58 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+512,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+513,Residential Plot,PKR81 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+514,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+515,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+516,Residential Plot,PKR1.02 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+517,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+518,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+519,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+520,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+521,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+522,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+523,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+524,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+525,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+526,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+527,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+528,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+529,Residential Plot,PKR1.57 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+530,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+531,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+532,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+533,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+534,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+535,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+536,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+537,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+538,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+539,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+540,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+541,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+542,Commercial Plot,PKR4.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+543,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+544,Residential Plot,PKR2.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+545,Residential Plot,PKR1.23 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+546,Residential Plot,PKR1.23 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+547,Residential Plot,PKR2.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+548,Residential Plot,PKR1.51 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+549,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+550,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+551,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+552,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+553,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+554,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+555,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+556,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+557,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+558,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+559,Residential Plot,PKR2.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+560,Residential Plot,PKR68 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+561,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+562,Residential Plot,PKR1.95 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+563,Residential Plot,PKR96 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+564,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+565,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+566,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+567,Residential Plot,PKR3.1 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+568,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+569,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+570,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Security Staff"
+571,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+572,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+573,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+574,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+575,Residential Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+576,Residential Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+577,Residential Plot,PKR1.92 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+578,Commercial Plot,PKR4.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+579,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+580,Residential Plot,PKR1.03 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+581,Residential Plot,PKR57 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+582,Residential Plot,PKR57 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+583,Commercial Plot,PKR3.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+584,Residential Plot,PKR1.07 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas"
+585,Residential Plot,PKR57 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas"
+586,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas"
+587,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+588,Commercial Plot,PKR7.55 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+589,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+590,Residential Plot,PKR1.36 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity"
+591,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+592,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+593,Residential Plot,PKR63 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+594,Residential Plot,PKR1.77 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas"
+595,Commercial Plot,PKR4.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas"
+596,Residential Plot,PKR1.37 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+597,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+598,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+599,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+600,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+601,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+602,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+603,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+604,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+605,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+606,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+607,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+608,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+609,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+610,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+611,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+612,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+613,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+614,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+615,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+616,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+617,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+618,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+619,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+620,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+621,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+622,Residential Plot,PKR7.5 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+623,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+624,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+625,Residential Plot,PKR12 Crore,"LDA Avenue, Lahore, Punjab",-,4 Kanal,For Sale,-,1 week ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+626,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+627,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+628,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+629,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+630,Residential Plot,PKR73 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+631,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+632,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+633,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+634,Residential Plot,PKR73 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+635,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+636,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+637,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+638,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+639,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+640,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+641,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+642,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+643,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 days ago,
+644,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+645,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+646,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+647,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 days ago,
+648,Residential Plot,PKR3.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Park Facing,Electricity,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+649,Residential Plot,PKR93 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+650,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+651,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+652,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+653,Residential Plot,PKR78 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+654,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+655,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+656,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+657,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+658,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+659,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+660,Residential Plot,PKR66 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+661,Residential Plot,PKR53 Lakh,"LDA Avenue, Lahore, Punjab",3,5 Marla,For Sale,2,1 week ago,
+662,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service"
+663,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+664,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"File,Balloted,Sewerage,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+665,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+666,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+667,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+668,Residential Plot,PKR1.23 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,10 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+669,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,10 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+670,Residential Plot,PKR66 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,10 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+671,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+672,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+673,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Nearby Schools,Nearby Shopping Malls"
+674,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,Corner
+675,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+676,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+677,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+678,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+679,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+680,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+681,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,Park Facing,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+682,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+683,Residential Plot,PKR55 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,1 week ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+684,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+685,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+686,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+687,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 week ago,
+688,Residential Plot,PKR2.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 week ago,
+689,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+690,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+691,Residential Plot,PKR1.33 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+692,Residential Plot,PKR1.08 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+693,Residential Plot,PKR6.3 Crore,"LDA Avenue, Lahore, Punjab",-,4 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+694,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+695,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+696,Residential Plot,PKR2.25 Crore,"LDA Avenue, Lahore, Punjab",-,1.2 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+697,Residential Plot,PKR3.4 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+698,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+699,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+700,Residential Plot,PKR1.67 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+701,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+702,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,2 weeks ago,"Possesion,Corner,Park Facing,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+703,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+704,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+705,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 hours ago,
+706,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+707,Residential Plot,PKR1.62 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+708,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+709,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+710,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+711,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+712,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+713,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+714,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+715,Residential Plot,PKR1.38 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+716,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+717,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+718,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+719,Residential Plot,PKR58 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,2 weeks ago,
+720,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+721,Residential Plot,PKR60 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+722,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+723,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+724,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+725,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+726,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+727,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+728,Residential Plot,PKR1.29 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+729,Residential Plot,PKR1.07 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+730,Residential Plot,PKR94 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+731,Residential Plot,PKR1.36 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+732,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+733,Residential Plot,PKR74 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+734,Residential Plot,PKR98 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+735,Residential Plot,PKR2.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+736,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+737,Residential Plot,PKR97 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+738,Residential Plot,PKR1.54 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+739,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+740,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants"
+741,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+742,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+743,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,11 hours ago,"Sewerage,Electricity,Water Supply"
+744,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,
+745,Residential Plot,PKR94 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,Nearby Schools
+746,Residential Plot,PKR73 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+747,Residential Plot,PKR97 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+748,Residential Plot,PKR96 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,
+749,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+750,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+751,Residential Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+752,Residential Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 weeks ago,"Possesion,Disputed,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall"
+753,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+754,Commercial Plot,PKR3.2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+755,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+756,Residential Plot,PKR1.9 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+757,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+758,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+759,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+760,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+761,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+762,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+763,Residential Plot,PKR1.85 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+764,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+765,Residential Plot,PKR1.16 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+766,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+767,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+768,Residential Plot,PKR1.52 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+769,Residential Plot,PKR3.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+770,Residential Plot,PKR3.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+771,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+772,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+773,Residential Plot,PKR1.12 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+774,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+775,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+776,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+777,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+778,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+779,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+780,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+781,Residential Plot,PKR96 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+782,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+783,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+784,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+785,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+786,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+787,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+788,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+789,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+790,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+791,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+792,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+793,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+794,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+795,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+796,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+797,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+798,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+799,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+800,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+801,Residential Plot,PKR1.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 day ago,
+802,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+803,Residential Plot,PKR90 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+804,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 day ago,
+805,Residential Plot,PKR1.04 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+806,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,Other Facilities
+807,Residential Plot,PKR2.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+808,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+809,Residential Plot,PKR4.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+810,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+811,Residential Plot,PKR1.16 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+812,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+813,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+814,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,
+815,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+816,Residential Plot,PKR4.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+817,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+818,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+819,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+820,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+821,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff"
+822,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+823,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,
+824,Residential Plot,PKR3.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 weeks ago,"Possesion,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+825,Commercial Plot,PKR3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+826,Commercial Plot,PKR3.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+827,Commercial Plot,PKR3.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+828,Commercial Plot,PKR3.15 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+829,Commercial Plot,PKR3.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+830,Commercial Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 hours ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+831,Commercial Plot,PKR4.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+832,Commercial Plot,PKR4.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+833,Residential Plot,PKR55 Lakh,"LDA Avenue, Lahore, Punjab",-,5 Marla,For Sale,-,4 weeks ago,
+834,Residential Plot,PKR96 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Possesion,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+835,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+836,Residential Plot,PKR99 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+837,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places"
+838,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+839,Residential Plot,PKR93 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+840,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+841,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+842,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+843,Residential Plot,PKR1.67 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+844,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,"Sewerage,Electricity,Water Supply,Sui Gas"
+845,Residential Plot,PKR72 Lakh,"LDA Avenue, Lahore, Punjab",-,9 Marla,For Sale,-,4 weeks ago,"Possesion,Corner,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+846,Residential Plot,PKR2.1 Crore,"LDA Avenue, Lahore, Punjab",6,1 Kanal,For Sale,5,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+847,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",6,10 Marla,For Sale,5,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+848,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",6,10 Marla,For Sale,5,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Other Facilities"
+849,Residential Plot,PKR1.8 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,"Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Other Nearby Places"
+850,Residential Plot,PKR1.23 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 weeks ago,
+851,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,4 weeks ago,
+852,Residential Plot,PKR87 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+853,Residential Plot,PKR93 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+854,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+855,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+856,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+857,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+858,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+859,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+860,Residential Plot,PKR1.12 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+861,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+862,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+863,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+864,Residential Plot,PKR80 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+865,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+866,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+867,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+868,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+869,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+870,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+871,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+872,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+873,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+874,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+875,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+876,Residential Plot,PKR1.68 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+877,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+878,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+879,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+880,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+881,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+882,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+883,Residential Plot,PKR2.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+884,Residential Plot,PKR1.08 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+885,Residential Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+886,Residential Plot,PKR4.3 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+887,Residential Plot,PKR4.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+888,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+889,Residential Plot,PKR85 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,"Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service"
+890,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+891,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+892,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+893,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+894,Residential Plot,PKR65 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+895,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+896,Residential Plot,PKR1.45 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+897,Residential Plot,PKR1.75 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+898,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+899,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+900,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,1 month ago,
+901,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+902,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,1 month ago,
+903,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+904,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+905,Commercial Plot,PKR3.65 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+906,Residential Plot,PKR1.55 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+907,Residential Plot,PKR1.52 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+908,Residential Plot,PKR2.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+909,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+910,Residential Plot,PKR2.1 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places"
+911,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+912,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+913,Commercial Plot,PKR3.64 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+914,Commercial Plot,PKR3.64 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+915,Commercial Plot,PKR3.69 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+916,Residential Plot,PKR1.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,"Possesion,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Distance From Airport (kms),Nearby Public Transport Service,Other Nearby Places,Security Staff,Other Facilities"
+917,Residential Plot,PKR1.35 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,
+918,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,
+919,Commercial Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,
+920,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,
+921,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,2 months ago,
+922,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,Disputed,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+923,Residential Plot,PKR1.1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,2 months ago,"Possesion,File,Balloted,Sewerage,Electricity,Water Supply,Sui Gas,Boundary Wall,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Restaurants,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+924,Residential Plot,PKR1.6 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 months ago,
+925,Residential Plot,PKR1.18 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+926,Residential Plot,PKR2.05 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 months ago,
+927,Residential Plot,PKR1.4 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+928,Residential Plot,PKR2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 months ago,
+929,Residential Plot,PKR1.3 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+930,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+931,Residential Plot,PKR1.5 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,3 months ago,
+932,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+933,Residential Plot,PKR1.15 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,3 months ago,
+934,Residential Plot,PKR6.5 Crore,"LDA Avenue, Lahore, Punjab",-,2 Kanal,For Sale,-,3 months ago,
+935,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 months ago,
+936,Commercial Plot,PKR3.25 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,5 months ago,
+937,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,4 months ago,
+938,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 months ago,
+939,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,5 months ago,
+940,Residential Plot,PKR1.52 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,6 months ago,"Possesion,Sewerage,Electricity,Nearby Schools,Nearby Shopping Malls,Distance From Airport (kms)"
+941,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,9 Marla,For Sale,-,6 months ago,
+942,Residential Plot,PKR1 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,6 months ago,
+943,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,7 months ago,
+944,Residential Plot,PKR88 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,7 months ago,
+945,Residential Plot,PKR70 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,7 months ago,Possesion
+946,Residential Plot,PKR95 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,7 months ago,"Possesion,Park Facing,Sewerage,Electricity,Water Supply,Sui Gas,Nearby Schools,Nearby Hospitals,Nearby Shopping Malls,Nearby Public Transport Service,Other Nearby Places,Security Staff"
+947,Residential Plot,PKR92 Lakh,"LDA Avenue, Lahore, Punjab",-,4.3 Marla,For Sale,-,7 months ago,
+948,Residential Plot,PKR75 Lakh,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,8 months ago,
+949,Residential Plot,PKR1.05 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 months ago,
+950,Residential Plot,PKR1.7 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 months ago,"Possesion,Park Facing"
+951,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,1 Kanal,For Sale,-,9 months ago,
+952,Residential Plot,PKR1.2 Crore,"LDA Avenue, Lahore, Punjab",-,10 Marla,For Sale,-,9 months ago,"Possesion,Electricity,Water Supply,Sui Gas"
