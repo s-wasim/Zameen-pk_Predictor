@@ -1,0 +1,1 @@
+This folder contains a backup of all the links to assist with the web scraping portion of the project
